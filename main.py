@@ -108,3 +108,4 @@ def send_reminders(chat_id):
 
 bot.polling(none_stop=True)  # Запускаем бота с опцией none_stop=True, чтобы бот не выключался
 
+print("Тут у нас инфа для новой ветки")
